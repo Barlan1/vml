@@ -1,3 +1,10 @@
+freqently-
+1.Construct all the Binary tree having node from 1 - n.
+  We are gvien a number N , we haver to construct all the binary tree having node value from 1 -   n . Ex : N = 3.
+  output : We have to print the inorder travseral of all the Binary tree formed.
+
+
+
 leetcode
 Top K Frequently Mentioned Keywords ⭐⭐⭐ [Experienced]
 Zombie in Matrix (Min hours to send file to all available servers) ⭐⭐⭐ [Experienced]
