@@ -2,8 +2,16 @@ freqently-
 1.Construct all the Binary tree having node from 1 - n.
   We are gvien a number N , we haver to construct all the binary tree having node value from 1 -   n . Ex : N = 3.
   output : We have to print the inorder travseral of all the Binary tree formed.
-
-
+2.Given an array of driver's ratings over N days.
+  Value over a period = (Contiuous sum * Minimum rating in that period)
+  eg: [3, 1, 6, 4, 5, 2]
+  Value could be (3+1+6+4+5+2) * 1 = 21.
+  eg: [3, 1, 6, 4, 5, 2]
+  Find the maximum value.
+  Here max value is (6+4+5) * 4 = 60.
+3.https://leetcode.com/problems/largest-rectangle-in-histogram/
+4. https://leetcode.com/problems/sum-of-subarray-minimums/
+5. https://leetcode.com/problems/sum-of-subarray-minimums/
 
 leetcode
 Top K Frequently Mentioned Keywords ⭐⭐⭐ [Experienced]
